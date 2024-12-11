@@ -1,4 +1,5 @@
-{ "homepage": "http://Ayodejisamuel.github.io/Ayodeji-Faleye-Portfolio",
+{
+  "homepage": "http://Ayodejisamuel.github.io/Ayodeji-Faleye-Portfolio",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,

@@ -11,7 +11,7 @@ import Contact from "./pages/contact/Contact";
 function App() {
   return (
     <>
-      <Router>
+      <Router basename='/Ayodeji-Faleye-Portfolio'>
         <>
           <div className="App">
             <Routes>
