@@ -1,23 +1,23 @@
 export const projectData = [
   {
     name: "Chat-Application",
-    img: "https://res.cloudinary.com/temidayo-falomo/image/upload/v1704141733/webp-portfolio-projs/cvybn0inebl6tm1uhjq2_vmzyuc.webp",
+    img: "https://res.cloudinary.com/dfkiftgfj/image/upload/v1734007003/Screenshot_80_-_Copy_km6jzb.png",
     desc: `A complex Full-stack chat application that takes user authentication, set users avatar and enables real-time communication .`,
     link: "https://chat-app-ntot.onrender.com/Chat-App/",
   },
 
   {
     name: "Weather-Application",
-    img: "https://res.cloudinary.com/temidayo-falomo/image/upload/v1704141732/webp-portfolio-projs/ehj7oxn3c6khmm2jgv0h_lsatpu.webp",
+    img: "https://res.cloudinary.com/dfkiftgfj/image/upload/v1734006272/Screenshot_68_byezb9.png",
     desc: `This is a complete weather application that fetches weather data from an external api with locations and displays forecast weather data`,
-    link: "https://inotes-mini.netlify.app/",
+    link: "https://ayodejisamuel.github.io/react-weather-app/",
   },
 
   {
     name: "Movie-App",
-    img: "https://res.cloudinary.com/temidayo-falomo/image/upload/v1704141734/webp-portfolio-projs/hzekob0otdjdi5k3eqeh_psqa91.webp",
+    img: "https://res.cloudinary.com/dfkiftgfj/image/upload/v1734006199/hotel_b5llrv.png",
     desc: `A Movie application with search functionality to display movie avatar with selecting and favourite movies.`,
-    link: "https://insttagg-client.vercel.app",
+    link: "https://ayodejisamuel.github.io/Movie-App/",
   },
 
   {
@@ -27,14 +27,14 @@ export const projectData = [
     link: "https://ayodejisamuel.github.io/Swissmark/",
   },
 
-  // {
-  //   name: "Todo-App",
-  //   img: "https://res.cloudinary.com/temidayo-falomo/image/upload/v1704141737/webp-portfolio-projs/tvf875wgowwczaiyy4zc_jtfqsa.webp",
-  //   desc: `I Built Booksy as a special personal side-project, 
-  //   this site contains fullstack / crud / authentication 
-  //   functionalities using a BAAS(Firebase).`,
-  //   link: "https://booksyy.netlify.app",
-  // },
+  {
+    name: "Portflio Website ",
+    img: "https://res.cloudinary.com/dfkiftgfj/image/upload/v1734002562/2024-12-12_1_yiah1d.png",
+    desc: `I Built Booksy as a special personal side-project, 
+    this site contains fullstack / crud / authentication 
+    functionalities using a BAAS(Firebase).`,
+    link: "https://1drv.ms/i/c/ca18ef1da212a53b/Efi9v2EOp25LhqpGkoFNQRUB7ArzfRx_VeBxHUWtlIW2sA?e=P69YRE",
+  },
 
   // {
   //   name: "Typrr",
