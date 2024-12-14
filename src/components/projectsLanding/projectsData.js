@@ -17,7 +17,7 @@ export const projectData = [
 
   {
     name: "Movie-App",
-    img: "https://res.cloudinary.com/dfkiftgfj/image/upload/v1734006199/hotel_b5llrv.png",
+    img: " https://res.cloudinary.com/dfkiftgfj/image/upload/v1734208867/hotel_utizqb.png",
     desc: `A Movie application with search functionality to display movie avatar from Api's  with selection and keeping of favourite movies.`,
     link: "https://ayodejisamuel.github.io/Movie-App/",
   },
