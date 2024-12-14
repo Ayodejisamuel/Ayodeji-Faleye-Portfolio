@@ -2,7 +2,7 @@ export const projectData = [
   {
     name: "Chat-Application",
     img: "https://res.cloudinary.com/dfkiftgfj/image/upload/v1734007003/Screenshot_80_-_Copy_km6jzb.png",
-    desc: `A complex Full-stack chat application that takes user authentication, set users avatar and enables real-time communication .`,
+    desc: `A complex full-stack chat application that takes user authentication, set users avatar and enables real-time communication using socket.io.`,
     link: "https://chat-app-ntot.onrender.com/Chat-App/",
   },
 
@@ -11,7 +11,7 @@ export const projectData = [
   {
     name: "Weather-Application",
     img: "https://res.cloudinary.com/dfkiftgfj/image/upload/v1734006272/Screenshot_68_byezb9.png",
-    desc: `This is a complete weather application that fetches weather data from an external api with locations and displays forecast weather data`,
+    desc: `This is a complex weather application that fetches weather data from an external api with locations and displays forecast weather data with ansthetic user interface`,
     link: "https://ayodejisamuel.github.io/react-weather-app/",
   },
 
@@ -31,7 +31,13 @@ export const projectData = [
     link: "https://ayodejisamuel.github.io/Swissmark/",
   },
 
-  
+  {
+    name: "Todo App",
+    img: " https://res.cloudinary.com/dfkiftgfj/image/upload/v1734173885/todoapp_a40jia.png",
+    desc: `This app with simple user interface uses  crud operations to create, keep and update task.
+`,
+    link: "https://ayodejisamuel.github.io/TODO-APP/",
+  },
   {
     name: "Portflio Website ",
     img: "https://res.cloudinary.com/dfkiftgfj/image/upload/v1734002562/2024-12-12_1_yiah1d.png",

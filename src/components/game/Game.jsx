@@ -1,5 +1,6 @@
 import React, { useState, useRef, useEffect } from "react";
 import { useInterval } from "./useInterval";
+
 import {
   CANVAS_SIZE,
   SNAKE_START,
