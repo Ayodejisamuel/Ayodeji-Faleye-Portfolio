@@ -11,7 +11,7 @@ export const projectData = [
   {
     name: "Weather-Application",
     img: "https://res.cloudinary.com/dfkiftgfj/image/upload/v1734006272/Screenshot_68_byezb9.png",
-    desc: `This is a complex weather application that fetches weather data from an external api with locations and displays forecast weather data with ansthetic user interface.`,
+    desc: `This is a complex weather application that fetches weather data from Api's and displays forecast weather data on ansthetic user interface.`,
     link: "https://ayodejisamuel.github.io/react-weather-app/",
   },
 
@@ -41,7 +41,7 @@ export const projectData = [
   {
     name: "Portflio Website ",
     img: "https://res.cloudinary.com/dfkiftgfj/image/upload/v1734002562/2024-12-12_1_yiah1d.png",
-    desc: `I`,
+    desc: `My portfolio website.Guess you love it.`,
     link: "https://1drv.ms/i/c/ca18ef1da212a53b/Efi9v2EOp25LhqpGkoFNQRUB7ArzfRx_VeBxHUWtlIW2sA?e=P69YRE",
   },
  ];
@@ -63,6 +63,10 @@ export const projectList = [
 
   {
     name: 'Movie App'
+  },
+  
+  {
+    name: 'Todo App' 
   }
   
 ];
