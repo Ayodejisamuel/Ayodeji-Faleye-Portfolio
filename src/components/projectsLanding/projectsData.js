@@ -11,14 +11,14 @@ export const projectData = [
   {
     name: "Weather-Application",
     img: "https://res.cloudinary.com/dfkiftgfj/image/upload/v1734006272/Screenshot_68_byezb9.png",
-    desc: `This is a complex weather application that fetches weather data from an external api with locations and displays forecast weather data with ansthetic user interface`,
+    desc: `This is a complex weather application that fetches weather data from an external api with locations and displays forecast weather data with ansthetic user interface.`,
     link: "https://ayodejisamuel.github.io/react-weather-app/",
   },
 
   {
     name: "Movie-App",
     img: "https://res.cloudinary.com/dfkiftgfj/image/upload/v1734006199/hotel_b5llrv.png",
-    desc: `A Movie application with search functionality to display movie avatar with selecting and favourite movies.`,
+    desc: `A Movie application with search functionality to display movie avatar from Api's  with selection and keeping of favourite movies.`,
     link: "https://ayodejisamuel.github.io/Movie-App/",
   },
 
@@ -27,23 +27,21 @@ export const projectData = [
   {
     name: "Swissmark",
     img: " https://res.cloudinary.com/dfkiftgfj/image/upload/v1734169440/swissmark_ntgfmx.png",
-    desc: `This is a website designed for an interior decor company with great user experience and user interface features`,
+    desc: `This is a website designed for an interior decor company with great user experience and user interface features.`,
     link: "https://ayodejisamuel.github.io/Swissmark/",
   },
 
   {
     name: "Todo App",
     img: " https://res.cloudinary.com/dfkiftgfj/image/upload/v1734173885/todoapp_a40jia.png",
-    desc: `This app with simple user interface uses  crud operations to create, keep and update task.
+    desc: `Implemented with an intuitive user interface. This app enables users to seamlessly create, edit, update and save tasks.
 `,
     link: "https://ayodejisamuel.github.io/TODO-APP/",
   },
   {
     name: "Portflio Website ",
     img: "https://res.cloudinary.com/dfkiftgfj/image/upload/v1734002562/2024-12-12_1_yiah1d.png",
-    desc: `I Built Booksy as a special personal side-project, 
-    this site contains fullstack / crud / authentication 
-    functionalities using a BAAS(Firebase).`,
+    desc: `I`,
     link: "https://1drv.ms/i/c/ca18ef1da212a53b/Efi9v2EOp25LhqpGkoFNQRUB7ArzfRx_VeBxHUWtlIW2sA?e=P69YRE",
   },
  ];
