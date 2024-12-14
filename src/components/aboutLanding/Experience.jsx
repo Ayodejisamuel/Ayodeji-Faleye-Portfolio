@@ -5,7 +5,7 @@ function Experience() {
     <article className="experience">
       <h2>_Experience</h2>
       <p>
-        I have worked with several freelance projects and i have also build projects using React Nexjs MongoDB and express
+        I have worked on several freelance projects and i have also build projects using ReactJs Nexjs MongoDB and express.
         <br />
         {/* Currently working as a Frontend Developer at @FaajiApp */}
       </p>

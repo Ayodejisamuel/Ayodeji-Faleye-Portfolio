@@ -5,6 +5,7 @@ import { ContactUs } from "./contactForm/ContactUs";
 // import ReUseFind from "./ReUseFind";
 
 function ContactLanding() {
+
   return (
     <div className="contact-landing">
       <div className="contact-left">
@@ -23,5 +24,6 @@ function ContactLanding() {
     </div>
   );
 }
+
 
 export default ContactLanding;

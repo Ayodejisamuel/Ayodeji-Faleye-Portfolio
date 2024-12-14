@@ -24,13 +24,13 @@ function Landing() {
           </h1>
           <h3 data-aos="fade" data-aos-delay="700">
             <FaGreaterThan />
-            Frontend Developer
+            Frontend Engineer
           </h3>
         </div>
 
         <div className="bottom-text" data-aos="fade" data-aos-delay="750">
-          {/* <p>{"// wanna play a game?"}</p> */}
-          {/* <p>{"// you can also see it on my github page"}</p> */}
+          <p>{"// wanna play a game?"}</p>
+          <p>{"//play this out using your arrow keys"}</p>
           <div style={{ lineHeight: "30px" }}>
             <span>const</span>
             <span>githubLink</span>
