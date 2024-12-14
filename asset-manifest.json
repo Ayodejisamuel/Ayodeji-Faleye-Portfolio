@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Ayodeji-Faleye-Portfolio/static/css/main.41c926ef.css",
-    "main.js": "/Ayodeji-Faleye-Portfolio/static/js/main.cd4f3c68.js",
+    "main.js": "/Ayodeji-Faleye-Portfolio/static/js/main.1a9c9c5e.js",
     "index.html": "/Ayodeji-Faleye-Portfolio/index.html",
     "static/media/Background Blurs.svg": "/Ayodeji-Faleye-Portfolio/static/media/Background Blurs.539d5c96982cf39dc971.svg",
     "main.41c926ef.css.map": "/Ayodeji-Faleye-Portfolio/static/css/main.41c926ef.css.map",
-    "main.cd4f3c68.js.map": "/Ayodeji-Faleye-Portfolio/static/js/main.cd4f3c68.js.map"
+    "main.1a9c9c5e.js.map": "/Ayodeji-Faleye-Portfolio/static/js/main.1a9c9c5e.js.map"
   },
   "entrypoints": [
     "static/css/main.41c926ef.css",
-    "static/js/main.cd4f3c68.js"
+    "static/js/main.1a9c9c5e.js"
   ]
 }
