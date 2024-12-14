@@ -6,12 +6,16 @@ export const projectData = [
     link: "https://chat-app-ntot.onrender.com/Chat-App/",
   },
 
+
+
   {
     name: "Weather-Application",
     img: "https://res.cloudinary.com/dfkiftgfj/image/upload/v1734006272/Screenshot_68_byezb9.png",
     desc: `This is a complete weather application that fetches weather data from an external api with locations and displays forecast weather data`,
     link: "https://ayodejisamuel.github.io/react-weather-app/",
   },
+
+
 
   {
     name: "Movie-App",
@@ -20,13 +24,16 @@ export const projectData = [
     link: "https://ayodejisamuel.github.io/Movie-App/",
   },
 
+
+
   {
     name: "Swissmark",
-    img: "https://res.cloudinary.com/temidayo-falomo/image/upload/v1704141734/webp-portfolio-projs/jibpcuv7lrymerkwr1or_shoogm.webp",
+    img: " https://res.cloudinary.com/dfkiftgfj/image/upload/v1734169440/swissmark_ntgfmx.png",
     desc: `This is a website designed for an interior decor company with great user experience and user interface features`,
     link: "https://ayodejisamuel.github.io/Swissmark/",
   },
 
+  
   {
     name: "Portflio Website ",
     img: "https://res.cloudinary.com/dfkiftgfj/image/upload/v1734002562/2024-12-12_1_yiah1d.png",
