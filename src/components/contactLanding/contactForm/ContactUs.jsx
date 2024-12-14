@@ -58,7 +58,7 @@ export const ContactUs = () => {
               type="email"
               name="email"
               className="form-input"
-              placeholder="example@gmail.com"
+              placeholder="mail@gmail.com"
               required
               onChange={(e) => setEmail(e.target.value)}
             />
@@ -69,7 +69,7 @@ export const ContactUs = () => {
               type="text"
               name="subject"
               className="form-input"
-              placeholder="Nice Work!"
+              placeholder="Your message"
               onChange={(e) => setSubject(e.target.value)}
             />
           </div>

@@ -26,7 +26,7 @@ function ReUseCon() {
       </p>
       <a href="mailto:ayodejisamuel80.com">
         <FiMail />
-        ayodejisamuel80.com
+        ayodejisamuel80@gmail.com
       </a>
       <a href="tel:08078147513">
         <IoIosCall />
