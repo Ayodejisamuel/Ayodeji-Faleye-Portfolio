@@ -3,6 +3,7 @@ import "./Navbar.css";
 import { NavLink } from "react-router-dom";
 import Aos from "aos";
 import "aos/dist/aos.css";
+import { Link } from "react-router-dom";
 
 function Navbar() {
   
@@ -22,36 +23,35 @@ function Navbar() {
             </div>
           </div>
 
-          <ul className="nav-links flex">
+          <div className="nav-links flex">
             <NavLink
               to="/"
               className={({ isActive }) => (isActive ? "active" : "inactive")}
             >
-              <li data-aos="fade-down">_hello</li>
+        
+              <Link to='/' className="route-links"  data-aos="fade-down >_hello">_hello</Link>
             </NavLink>
             <NavLink to="/about">
-              <li data-aos="fade-down" data-aos-delay="350">
-                _about-me
-              </li>
+
+              <Link to="/about" className="route-links" data-aos="fade-down" data-aos-delay="350">_about-me</Link>
             </NavLink>
             <NavLink to="/projects">
-              <li data-aos="fade-down" data-aos-delay="400">
-                _projects
-              </li>
+        
+              
+              <Link to="/about" className="route-links" data-aos="fade-down" data-aos-delay="400">_projects</Link>
             </NavLink>
-          </ul>
+          </div>
         </div>
 
-        <ul className="nav-contact">
+        <div className="nav-contact">
           <NavLink
             to="/contact-me"
             className={({ isActive }) => (isActive ? "active" : "inactive")}
           >
-            <li data-aos="fade-down" data-aos-delay="450">
-              _contact-me
-            </li>
+ 
+            <Link to="/about" className="route-links" data-aos="fade-down" data-aos-delay="450">_contact-me</Link>
           </NavLink>
-        </ul>
+        </div>
       </div>
     </nav>
   );

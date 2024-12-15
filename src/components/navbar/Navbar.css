@@ -32,7 +32,7 @@ nav {
   padding-left: 5%;
 }
 
-.nav-links li {
+.route-links {
   color: #a7bfd5;
   border: 1px #1e2d3d solid;
   border-bottom: none;
@@ -53,11 +53,11 @@ nav {
   width: 150px;
 }
 
-.nav-contact li:hover {
+.route-links:hover {
   color: #fea55f;
 }
 
-.nav-links li:hover {
+.route-links:hover {
   color: #fea55f;
 }
 
@@ -88,7 +88,7 @@ nav {
     padding: 0 1%;
   }
 
-  .nav-links li {
+  .route-links {
     border: none;
     padding: 20px;
     width: 100%;
@@ -109,7 +109,7 @@ nav {
 }
 
 @media (max-width: 380px) {
-  .nav-links li {
+  .route-links {
     padding: 15px;
   }
 }
