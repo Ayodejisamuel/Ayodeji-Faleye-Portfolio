@@ -14,6 +14,13 @@ export const projectData = [
     desc: `This is a complex weather application that fetches weather data from Api's and displays forecast weather data on ansthetic user interface.`,
     link: "https://ayodejisamuel.github.io/react-weather-app/",
   },
+  {
+    name: "Movie-Profile",
+    img: "  https://res.cloudinary.com/dfkiftgfj/image/upload/v1734273397/movie-profile_r8cugj.png",
+    desc: `A responsive Movie review blog website. Only the landing page is revealed.More complexity of the website is hidden for privacy reasons.`,
+    link: "https://ayodejisamuel.github.io/Movie-Profile/",
+  },
+
 
   {
     name: "Movie-App",
@@ -22,12 +29,6 @@ export const projectData = [
     link: "https://ayodejisamuel.github.io/Movie-App/",
   },
 
-  {
-    name: "Movie-Profile",
-    img: "  https://res.cloudinary.com/dfkiftgfj/image/upload/v1734273397/movie-profile_r8cugj.png",
-    desc: `A responsive Movie review blog website. Only the landing page is revealed.More complexity of the website is hidden for privacy reasons.`,
-    link: "https://ayodejisamuel.github.io/Movie-Profile/",
-  },
 
   {
     name: "Swissmark",
