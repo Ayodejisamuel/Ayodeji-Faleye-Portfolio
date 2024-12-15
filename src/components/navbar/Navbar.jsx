@@ -38,7 +38,7 @@ function Navbar() {
             <NavLink to="/projects">
         
               
-              <Link to="/about" className="route-links" data-aos="fade-down" data-aos-delay="400">_projects</Link>
+              <Link to="/projects" className="route-links" data-aos="fade-down" data-aos-delay="400">_projects</Link>
             </NavLink>
           </div>
         </div>
@@ -49,7 +49,7 @@ function Navbar() {
             className={({ isActive }) => (isActive ? "active" : "inactive")}
           >
  
-            <Link to="/about" className="route-links" data-aos="fade-down" data-aos-delay="450">_contact-me</Link>
+            <Link to="/contact-me" className="route-links" data-aos="fade-down" data-aos-delay="450">_contact-me</Link>
           </NavLink>
         </div>
       </div>
