@@ -22,7 +22,12 @@ export const projectData = [
     link: "https://ayodejisamuel.github.io/Movie-App/",
   },
 
-
+  {
+    name: "Movie-Profile",
+    img: "  https://res.cloudinary.com/dfkiftgfj/image/upload/v1734273397/movie-profile_r8cugj.png",
+    desc: `A responsive Movie review blog website. Only the landing page is revealed.More complexity of the website is hidden for privacy reasons.`,
+    link: "https://ayodejisamuel.github.io/Movie-Profile/",
+  },
 
   {
     name: "Swissmark",
