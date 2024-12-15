@@ -6,7 +6,7 @@ import "aos/dist/aos.css";
 import { Link } from "react-router-dom";
 
 function Navbar() {
-  
+
   useEffect(() => {
     Aos.init({
       duration: 1000,
