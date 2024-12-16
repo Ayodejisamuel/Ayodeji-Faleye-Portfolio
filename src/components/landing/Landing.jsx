@@ -5,6 +5,7 @@ import Game from "../game/Game";
 import Aos from "aos";
 import "aos/dist/aos.css";
 
+
 function Landing() {
   useEffect(() => {
     Aos.init({
