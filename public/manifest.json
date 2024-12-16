@@ -1,6 +1,7 @@
 {
-  "short_name": "My Portfolio",
-  "name": "Temidayo Falomo's portfolio website",
+  "short_name": "Faleye Ayodeji",
+  "name": "Ayodeji Faleye's portfolio website",
+  "description": "Faleye Ayodeji's Portfolio showcasing projects and skills.",
   "icons": [
     {
       "src": "favicon.ico",
