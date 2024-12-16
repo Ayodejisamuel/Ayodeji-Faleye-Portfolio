@@ -11,7 +11,6 @@ function ProjectsLanding() {
       duration: 1000,
     });
   }, []);
-
   return (
     <div className="projectsLanding">
       <div className="projects-left">
@@ -20,7 +19,7 @@ function ProjectsLanding() {
           {projectList.map((proj, index) => {
             return (
               <li key={index}>
-                <a href="#">{proj.name}</a>
+                <a href="##">{proj.name}</a>
               </li>
             );
           })}

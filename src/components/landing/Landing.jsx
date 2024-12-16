@@ -59,7 +59,7 @@ function Landing() {
         </div>
       </div>
 
-      <Game className="game-disp" />
+      {/* <Game className="game-disp" /> */}
     </div>
   );
 }

@@ -6,8 +6,6 @@ export const projectData = [
     link: "https://chat-app-ntot.onrender.com/Chat-App/",
   },
 
-
-
   {
     name: "Weather-Application",
     img: "https://res.cloudinary.com/dfkiftgfj/image/upload/v1734006272/Screenshot_68_byezb9.png",
