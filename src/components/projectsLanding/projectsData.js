@@ -71,6 +71,13 @@ export const projectList = [
   
   {
     name: 'Todo App' 
+  },
+
+  {
+    name: "Modern Calculator"
+  },
+
+  {
+    
   }
-  
 ];
