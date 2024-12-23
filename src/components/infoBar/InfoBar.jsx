@@ -76,10 +76,10 @@ function InfoBar() {
             <SiStyledcomponents />
             Tailwindcss
           </li>
-          {/* <li>
+           <li>
             <SiMaterialui />
-            Material
-          </li> */}
+            ChakraUI
+          </li> 
          
           {/* <li>
             <CgFigma />
