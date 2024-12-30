@@ -43,6 +43,12 @@ export const projectData = [
     link: "https://ayodejisamuel.github.io/TODO-APP/",
   },
   {
+    name: "Instagg ",
+    img: "https://res.cloudinary.com/dfkiftgfj/image/upload/v1734002562/2024-12-12_1_yiah1d.png",
+    desc: `A complex fullstack web application that models after instagram using firebase for backend development`,
+    link: " https://res.cloudinary.com/dfkiftgfj/image/upload/v1735547127/Screenshot_88_rxwapa.png",
+  },
+  {
     name: "Portflio Website ",
     img: "https://res.cloudinary.com/dfkiftgfj/image/upload/v1734002562/2024-12-12_1_yiah1d.png",
     desc: `My portfolio website.Guess you love it.`,
@@ -78,6 +84,6 @@ export const projectList = [
   },
 
   {
-    
+    name: 'instagg'
   }
 ];
