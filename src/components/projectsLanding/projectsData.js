@@ -50,9 +50,9 @@ export const projectData = [
   },
   {
     name: "Portflio Website ",
-    img: "https://res.cloudinary.com/dfkiftgfj/image/upload/v1734002562/2024-12-12_1_yiah1d.png",
+    img: "https://1drv.ms/i/c/ca18ef1da212a53b/Efi9v2EOp25LhqpGkoFNQRUB7ArzfRx_VeBxHUWtlIW2sA?e=P69YRE",
     desc: `My portfolio website.Guess you love it.`,
-    link: "https://1drv.ms/i/c/ca18ef1da212a53b/Efi9v2EOp25LhqpGkoFNQRUB7ArzfRx_VeBxHUWtlIW2sA?e=P69YRE",
+    link: "https://ayodejisamuel.github.io/instagg/",
   },
  ];
 
