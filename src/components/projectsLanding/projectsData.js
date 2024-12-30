@@ -1,5 +1,11 @@
 export const projectData = [
   {
+    name: "Instagg ",
+    img: "https://res.cloudinary.com/dfkiftgfj/image/upload/v1735547960/Screenshot_89_brgh8w.png",
+    desc: `A complex fullstack web application base off instagram using firebase for user authentication, user management and general backend development`,
+    link: "https://ayodejisamuel.github.io/instagg/ ",
+  },
+  {
     name: "Chat-Application",
     img: "https://res.cloudinary.com/dfkiftgfj/image/upload/v1734007003/Screenshot_80_-_Copy_km6jzb.png",
     desc: `A complex full-stack chat application that takes user authentication, set users avatar and enables real-time communication using socket.io.`,
@@ -42,17 +48,12 @@ export const projectData = [
 `,
     link: "https://ayodejisamuel.github.io/TODO-APP/",
   },
-  {
-    name: "Instagg ",
-    img: "https://res.cloudinary.com/dfkiftgfj/image/upload/v1734002562/2024-12-12_1_yiah1d.png",
-    desc: `A complex fullstack web application that models after instagram using firebase for backend development`,
-    link: " https://res.cloudinary.com/dfkiftgfj/image/upload/v1735547127/Screenshot_88_rxwapa.png",
-  },
+ 
   {
     name: "Portflio Website ",
-    img: "https://1drv.ms/i/c/ca18ef1da212a53b/Efi9v2EOp25LhqpGkoFNQRUB7ArzfRx_VeBxHUWtlIW2sA?e=P69YRE",
+    img: "https://res.cloudinary.com/dfkiftgfj/image/upload/v1734002562/2024-12-12_1_yiah1d.png",
     desc: `My portfolio website.Guess you love it.`,
-    link: "https://ayodejisamuel.github.io/instagg/",
+    link: "https://ayodejisamuel.github.io/Ayodeji-Faleye-Portfolio/",
   },
  ];
 
