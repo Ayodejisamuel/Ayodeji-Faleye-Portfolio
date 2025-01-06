@@ -2,7 +2,7 @@ export const projectData = [
   {
     name: "Instagg ",
     img: "https://res.cloudinary.com/dfkiftgfj/image/upload/v1735547960/Screenshot_89_brgh8w.png",
-    desc: `A complex fullstack web application base off instagram using firebase for user authentication, user management and general backend development`,
+    desc: `A complex fullstack web application base off instagram using firebase for user authentication- An ongoing web application`,
     link: "https://ayodejisamuel.github.io/instagg/ ",
   },
   {
